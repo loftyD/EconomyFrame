@@ -3,8 +3,8 @@ Buy Items through configured Item Frames using EssentialsX Economy.
 
 ## Pre-requisites
 
-Mandatory: EssentialsX >= 2.19.0
-Optional: WeaponMechanics 4.1.5
+* Mandatory: EssentialsX >= 2.19.0
+* Optional: WeaponMechanics 4.1.X
 
 ## Usage
 
