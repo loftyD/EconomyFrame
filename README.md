@@ -8,7 +8,9 @@ Buy Items through configured Item Frames using EssentialsX Economy.
 
 ## Usage
 
-`/economyframe {price}` This will allow you to place a frame configured with a price point. Add your item into the frame and then the item is permanently bound to that itemframe. Persists through server restarts. For those using WeaponMechanics, it has support for weapons with ammunition and weapons without. If you decide to place a weapon inside an itemframe with ammunition; upon purchasing the weapon again again, you'll get 1 ammunition item for 50% of the configured price.
+`/economyframe {price}` This will allow you to place a frame configured with a price point. Add your item into the frame and then the item is permanently bound to that itemframe. Persists through server restarts. For those using WeaponMechanics, it has support for weapons with ammunition and weapons without. If you decide to place a weapon inside an itemframe with ammunition; upon purchasing the weapon again again, you'll get 1 ammunition item for 50% of the configured price. 
+
+For best use in my experience this is best witnessed in Adventure Mode.
 
 
 ## Where can I see this in action?
